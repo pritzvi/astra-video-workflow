@@ -11,7 +11,7 @@
 
 Write a shot list with source range, target purpose, exact spoken text, speaker, required change and chosen method. Prefer focused generation for the person/action. Use Remotion for exact UI, captions and graphics, and local tracking/compositing for a filmed screen. Preserve successful sound, reactions and timing when the brief calls for it.
 
-For each planned generation record the provider/tool/model, ordered references, precise prompt, exact dialogue, duration/resolution/aspect, native audio toggle, handling of embedded source audio, output path, estimated cost and acceptance checks. InVideo is the intended route in this kit: inspect its actual exposed capabilities. Do not infer a direct Seedance endpoint, a model version, voice conditioning or a start-frame lock from a brand name. A unavailable field is a real constraint to report.
+For each planned generation record the provider/tool/model, ordered references, precise prompt, exact dialogue, duration/resolution/aspect, native audio toggle, handling of embedded source audio, output path, estimated cost and acceptance checks. OpenArt is the intended route in this kit: inspect its actual exposed capabilities. Do not infer a direct Seedance endpoint, a model version, voice conditioning or a start-frame lock from a brand name. A unavailable field is a real constraint to report.
 
 The user approves the bounded batch after seeing those inputs. Keep generation estimate, actual charge and refund separate. Reconcile timeouts/pending IDs before resubmission. Continue approved local edits without adding a new permission gate. A broader production or retry requires authorization if it is outside the existing scope.
 

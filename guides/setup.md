@@ -24,7 +24,7 @@ If either destination already exists, compare versions first. Open the target pr
 
 ## 3. Connect generation
 
-Follow [InVideo MCP setup](invideo-mcp.md). Ask Codex to inspect the connected tools without submitting a job. Confirm model, input types, duration, audio controls, price and account access before approving a generation. Install or connect the tools exposed by your account; a successful login page is not a successful generation test.
+Follow [OpenArt MCP setup](openart-mcp.md). Ask Codex to inspect the connected tools without submitting a job. Confirm model, input types, duration, audio controls, price and account access before approving a generation. Install or connect the tools exposed by your account; a successful login page is not a successful generation test.
 
 ## 4. Add local editing tools
 

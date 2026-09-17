@@ -15,7 +15,7 @@ A person asks a phone a question. The app replies sharply in German. The humor d
 
 If the model changes the person but leaves the old screen, repair the screen. If it speaks in the wrong voice, inspect the reference's embedded audio and the selected endpoint's voice support before retrying. A matching face image cannot fix unsupported audio conditioning.
 
-In the tutorial's production, local UI and screen compositing preserved parts of the source that a whole-video edit struggled to change correctly. This is a method example, not a bundled reproduction: original footage, portraits, voices and paid outputs are not included. The historical jobs used a different provider; use InVideo's current capabilities for your own run.
+In the tutorial's production, local UI and screen compositing preserved parts of the source that a whole-video edit struggled to change correctly. This is a method example, not a bundled reproduction: original footage, portraits, voices and paid outputs are not included. The historical jobs used a different provider; use OpenArt's current capabilities for your own run.
 
 Copyable request:
 

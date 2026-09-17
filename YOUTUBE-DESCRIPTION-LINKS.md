@@ -9,8 +9,8 @@ https://github.com/pritzvi/astra-video-workflow/archive/refs/heads/main.zip
 Interactive motion library — 12 original studies and copyable prompts:
 https://pritzvi.github.io/astra-video-workflow/
 
-InVideo MCP:
-https://invideo.io/ai/mcp/
+OpenArt MCP:
+https://openart.ai/mcp/
 
 Codex desktop app — official download and setup:
 https://developers.openai.com/codex/app/

@@ -1,8 +1,8 @@
 # Seedance prompting: one job for each reference
 
-Choose the exact model and endpoint before writing the final request. **Seedance is the model family; InVideo is the connection in this kit.** A different provider can expose different settings, accepted files, durations and billing for the same named model.
+Choose the exact model and endpoint before writing the final request. **Seedance is the model family; OpenArt is the connection in this kit.** A different provider can expose different settings, accepted files, durations and billing for the same named model.
 
-Use the current [InVideo Seedance guide](https://help.invideo.io/en/articles/14755814-create-with-seedance-2-0) and [BytePlus prompting guide](https://docs.byteplus.com/en/docs/ModelArk/2607689) as source references. Confirm every limit against the actual connected tool. A Seedance 2.5 reference allowance must not be copied into a Seedance 2.0 request, and a model-wide capability is not proof that a particular provider exposes it. Record the date and schema in the [capability check](../skills/video-analyzer/templates/capabilities.md).
+Use the current [OpenArt MCP model listing](https://openart.ai/mcp/) and [BytePlus prompting guide](https://docs.byteplus.com/en/docs/ModelArk/2607689) as source references. Confirm every limit against the actual connected tool. A Seedance 2.5 reference allowance must not be copied into a Seedance 2.0 request, and a model-wide capability is not proof that a particular provider exposes it. Record the date and schema in the [capability check](../skills/video-analyzer/templates/capabilities.md).
 
 ## Write the roles before the prose
 

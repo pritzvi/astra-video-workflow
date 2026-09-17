@@ -6,7 +6,7 @@ Twelve interactive, original motion studies with practical editing directions. T
 
 Search or filter the techniques, open a card, scrub the six-second preview, then copy its prompt. Replace the example wording with your own assets and measured timestamps. The global pause button stops the previews; reduced-motion preferences start them paused. The previews illustrate a technique, not a promised video-model output.
 
-Use the site's **Start here** link for the complete Video Analyzer skill and the Codex, InVideo MCP, Remotion and Blender setup guides. The **Video Analyzer** download is a short starter prompt that points to that complete kit.
+Use the site's **Start here** link for the complete Video Analyzer skill and the Codex, OpenArt MCP, Remotion and Blender setup guides. The **Video Analyzer** download is a short starter prompt that points to that complete kit.
 
 ## Hosting
 

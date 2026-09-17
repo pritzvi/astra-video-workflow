@@ -7,10 +7,9 @@ Checked for this release on September 17, 2026. Product availability and tool sc
 | Codex / desktop app download guide | https://developers.openai.com/codex/app/ |
 | Codex skills | https://developers.openai.com/codex/skills/ |
 | Codex MCP setup | https://developers.openai.com/codex/mcp/ |
-| InVideo MCP | https://invideo.io/ai/mcp/ |
-| InVideo MCP help | https://help.invideo.io/en/articles/11316042-invideo-model-context-protocol-server |
-| Community SSE-to-STDIO bridge | https://github.com/punkpeye/mcp-remote |
-| InVideo Seedance 2.0 guide | https://help.invideo.io/en/articles/14755814-create-with-seedance-2-0 |
+| OpenArt MCP setup | https://openart.ai/mcp/ |
+| OpenArt official CLI | https://github.com/OpenArt-AI/cli |
+| OpenArt Seedance 2.5 product guide | https://openart.ai/ai-model/seedance-2-5/ |
 | Remotion official skills | https://github.com/remotion-dev/skills |
 | Remotion skill installation | https://www.remotion.dev/docs/ai/skills |
 | Remotion project setup | https://www.remotion.dev/docs |

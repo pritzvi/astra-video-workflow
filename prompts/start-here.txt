@@ -2,7 +2,7 @@ Use the Video Analyzer skill from the free Astra Video Workflow kit: https://git
 
 Inspect the complete reference video and audio. Show me its shot-by-shot structure and the parts that make it work: pauses, expressions, camera angles, app interaction, text and sound. Give each reference a clear identity, performance, voice or UI role.
 
-Make a concise plan: what to preserve, what to generate through InVideo, what to build in Remotion, and whether Blender is needed to fit a screen into footage. Discover the actual connected InVideo tools and verify the exact Seedance model and inputs rather than assuming capabilities from the website. Show me the prompt, references, settings, expected output and cost for each paid job. Wait for my approval before paid generation; do not purchase credits.
+Make a concise plan: what to preserve, what to generate through OpenArt, what to build in Remotion, and whether Blender is needed to fit a screen into footage. Discover the actual connected OpenArt tools and verify the exact Seedance model and inputs rather than assuming capabilities from the website. Show me the prompt, references, settings, expected output and cost for each paid job. Wait for my approval before paid generation; do not purchase credits.
 
 Plan a short first batch with a clear retry limit. Keep approved footage, speech and script intact. Do local research and editing that do not depend on generation while the account setup or approval is pending. If multiple agents are available and I authorize their use, give each one a separate output folder and one assembly owner.
 
