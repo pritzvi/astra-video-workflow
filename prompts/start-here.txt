@@ -1,0 +1,9 @@
+Use the Video Analyzer skill from the free Astra Video Workflow kit: https://github.com/pritzvi/astra-video-workflow . If I have not supplied it locally, fetch its public skill folder and linked files first. Read skills/video-analyzer/SKILL.md and its referenced workflow; if it is installed, use $video-analyzer. My product, intended changes and reference files are in brief.md and inputs/. If that brief is missing, infer what you can from this chat and ask only for the essential missing product/reference information.
+
+Inspect the complete reference video and audio. Show me its shot-by-shot structure and the parts that make it work: pauses, expressions, camera angles, app interaction, text and sound. Give each reference a clear identity, performance, voice or UI role.
+
+Make a concise plan: what to preserve, what to generate through InVideo, what to build in Remotion, and whether Blender is needed to fit a screen into footage. Discover the actual connected InVideo tools and verify the exact Seedance model and inputs rather than assuming capabilities from the website. Show me the prompt, references, settings, expected output and cost for each paid job. Wait for my approval before paid generation; do not purchase credits.
+
+Plan a short first batch with a clear retry limit. Keep approved footage, speech and script intact. Do local research and editing that do not depend on generation while the account setup or approval is pending. If multiple agents are available and I authorize their use, give each one a separate output folder and one assembly owner.
+
+After generation, inspect the full raw clips for exact words, unwanted repeats, face/hand/expression quality, native audio and unwanted text/music. Build precise UI and graphics separately. Keep native speech and picture at natural speed with matching cuts. Deliver the finished preview, editable source, receipt ledger, render commands and honest review notes.

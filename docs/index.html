@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Twelve interactive motion graphics studies with copyable prompts, plus the free Astra video workflow kit for Codex, InVideo, Remotion and Blender.">
+<title>Motion Notes — See the move. Give the direction.</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a href="#library" class="skip-link">Skip to the motion library</a>
+<header><a class="brand" href="#"><span class="mark">↗</span> MOTION NOTES<span class="edition">FIELD GUIDE / 01</span></a><nav><a href="#library">The library</a><a href="video-analyzer.txt" download>Video Analyzer ↗</a><button id="download" class="small">Get all prompts ↓</button></nav></header>
+<main>
+<section class="hero">
+ <div class="hero-copy"><div class="eyebrow"><span class="dot"></span> A PRACTICAL LIBRARY FOR VIDEO MAKERS</div><h1>Know the move.<br><span>Give the direction.</span></h1><p>“Make it cinematic” leaves a lot to chance.<br>See an effect, learn its name, and give your agent<br class="desktop"> a prompt that says exactly what should happen.</p><a href="#library" class="primary">Find your next move <span>↙</span></a><div class="hero-meta"><span>12 techniques</span><span>Live previews</span><span>Copyable prompts</span></div></div>
+ <div class="hero-art"><canvas id="hero-canvas" width="960" height="680" aria-label="Animated demonstration of kinetic typography and a three-step edit"></canvas><div class="art-caption"><span>LESS GUESSING. MORE DIRECTION.</span><span>▶ LOCAL MOTION STUDY</span></div></div>
+</section>
+<section class="how"><span class="eyebrow">THE WORKFLOW</span><div><b>01</b><p>Choose the effect<span>Start with what the scene needs.</span></p></div><div><b>02</b><p>Copy the direction<span>Add your footage and timestamps.</span></p></div><div><b>03</b><p>Check the result<span>Compare the same beat before & after.</span></p></div></section>
+<aside class="kit-links" aria-label="Free video workflow kit"><div><b>Making the full ad?</b><span>Get the Video Analyzer skill and the setup guides used in the tutorial.</span></div><div class="kit-actions"><a href="https://github.com/pritzvi/astra-video-workflow#start-here">Start here ↗</a><a href="https://github.com/pritzvi/astra-video-workflow/blob/main/guides/setup.md">Setup guide ↗</a><a href="https://github.com/pritzvi/astra-video-workflow/archive/refs/heads/main.zip">Download the kit ↓</a></div></aside>
+<section id="library" class="library"><div class="section-top"><div><div class="eyebrow">THE MOTION INDEX</div><h2>Find the right language.</h2></div><button id="pause" class="small" aria-pressed="false">Pause previews Ⅱ</button></div>
+<div class="toolbar"><div class="filters" role="group" aria-label="Filter techniques"><button class="active" data-filter="All" aria-pressed="true">All <span>12</span></button><button data-filter="Type" aria-pressed="false">Type</button><button data-filter="Camera" aria-pressed="false">Camera</button><button data-filter="Transitions" aria-pressed="false">Transitions</button><button data-filter="Compositing" aria-pressed="false">Compositing</button><button data-filter="Explainers" aria-pressed="false">Explainers</button></div><label class="search"><span>⌕</span><input type="search" id="search" placeholder="Search a move or use case" aria-label="Search techniques"></label></div>
+<p id="result-count" class="sr-only" role="status" aria-live="polite">12 techniques</p><div class="grid" id="cards"></div><p id="empty" hidden>No techniques match. Try “text”, “phone”, or “cut”.</p>
+</section>
+<section class="closing"><div><div class="eyebrow">MAKE THE MODEL PART OF THE PROCESS</div><h2>Generate the performance.<br>Direct the details.</h2><p>Keep precise text, UI and timing in the edit. Give the video model<br class="desktop"> a clear job, then assemble the layers around the take you like.</p></div><a href="video-analyzer.txt" download class="primary">Get the Video Analyzer <span>↓</span></a></section>
+</main>
+<footer><span>MOTION NOTES / An independent learning resource<br><a href="https://github.com/pritzvi/astra-video-workflow">Source & free workflow kit ↗</a></span><span>Original code studies · No video-generation credits needed</span></footer>
+<dialog id="detail" aria-labelledby="modal-title"><div class="modal-top"><span class="eyebrow" id="modal-category"></span><button id="close" aria-label="Close technique">✕</button></div><div class="modal-grid"><div><canvas id="detail-canvas" width="960" height="600" aria-label="Expanded technique preview"></canvas><div class="transport"><button id="replay">↺ Replay</button><input id="scrub" type="range" min="0" max="5.99" step="0.01" value="0" aria-label="Scrub preview"><span id="time">0.0s</span></div><p class="caption">A simplified study of the motion. Apply the prompt to your footage.</p></div><div><h2 id="modal-title"></h2><p id="modal-description"></p><div class="fact"><b>Use it for</b><p id="modal-use"></p></div><div class="fact"><b>Build it with</b><p id="modal-tool"></p></div><div class="fact"><b>Watch out for</b><p id="modal-qa"></p></div></div></div><div class="prompt-heading"><h3>Your direction</h3><button class="primary" id="modal-copy">Copy prompt ↗</button></div><pre id="modal-prompt"></pre></dialog>
+<div id="toast" role="status" aria-live="polite"></div>
+<script src="library.js"></script><script src="app.js"></script>
+</body></html>

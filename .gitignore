@@ -1,0 +1,37 @@
+# Local secrets and machine configuration
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+credentials*
+secrets*
+.DS_Store
+
+# Dependencies and generated caches
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.cache/
+coverage/
+
+# Private working media and production artifacts
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.mp3
+*.wav
+*.m4a
+*.flac
+*.zip
+*.log
+logs/
+receipts/
+outputs/
+production/
+qa/
